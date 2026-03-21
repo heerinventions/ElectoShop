@@ -27,7 +27,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -55,3 +54,4 @@ logs/
 # OS
 Thumbs.db
 .DS_Store
+config.bat
